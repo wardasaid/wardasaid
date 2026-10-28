@@ -28,4 +28,3 @@ Statsvitenskapen lærte meg å spørre hvem som står bak et angrep og hvorfor, 
 
 **Programmering:** Python
 
-**Språk:** Norsk, engelsk, somali
